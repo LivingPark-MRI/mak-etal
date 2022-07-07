@@ -1,0 +1,15 @@
+.env
+.ipynb_checkpoints/
+.cache/
+.ipython/
+.local/
+.vscode/
+
+.DS_STORE
+
+# LivingPark specific
+data/
+utils/
+.ppmi_config
+**.csv
+
