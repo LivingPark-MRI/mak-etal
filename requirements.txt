@@ -1,0 +1,6 @@
+httpx
+matplotlib
+numpy
+pandas
+pytz
+rich
