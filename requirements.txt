@@ -1,3 +1,5 @@
+boutiques
+dask
 httpx
 matplotlib
 numpy

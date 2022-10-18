@@ -8,8 +8,8 @@
 .DS_STORE
 
 # LivingPark specific
-data/
-utils/
 .ppmi_config
 **.csv
+inputs
+outputs
 
