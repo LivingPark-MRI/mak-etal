@@ -4,12 +4,15 @@
 .ipython/
 .local/
 .vscode/
+.venv/
 
 .DS_STORE
 
 # LivingPark specific
-.ppmi_config
+**.ppmi_config
 **.csv
 inputs
 outputs
+PPMI
+**.log
 

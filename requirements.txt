@@ -1,8 +1,8 @@
 boutiques
-dask
-httpx
+livingpark-utils
+jupyterlab
 matplotlib
 numpy
 pandas
-pytz
 rich
+
