@@ -11,8 +11,12 @@
 # LivingPark specific
 **.ppmi_config
 **.csv
+code
 inputs
 outputs
 PPMI
 **.log
-
+*.json
+config.toml
+containers
+supervisord.pid
