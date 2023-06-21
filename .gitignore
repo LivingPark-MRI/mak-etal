@@ -20,3 +20,4 @@ PPMI
 config.toml
 containers
 supervisord.pid
+.exitcodes/
