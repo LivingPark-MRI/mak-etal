@@ -1,6 +1,9 @@
-httpx
+boutiques
+ipywidgets
+livingpark-utils
+jupyterlab
 matplotlib
 numpy
 pandas
-pytz
 rich
+tqdm

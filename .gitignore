@@ -4,12 +4,20 @@
 .ipython/
 .local/
 .vscode/
+.venv/
 
 .DS_STORE
 
 # LivingPark specific
-data/
-utils/
-.ppmi_config
+**.ppmi_config
 **.csv
-
+code
+inputs
+outputs
+PPMI
+**.log
+*.json
+config.toml
+containers
+supervisord.pid
+.exitcodes/
